@@ -2,3 +2,4 @@ panda
 numpy
 streamlit
 scikit-learn
+matplotlib
